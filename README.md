@@ -19,5 +19,6 @@
 ---
 
 ## 🎮 Screenshot
-![Gameplay](![Screenshot 2025-01-26 123518](https://github.com/user-attachments/assets/cd0ee935-0fdd-4efd-8cd1-9fd13d666f3f)
-)
+![Gameplay]
+![Screenshot 2025-01-26 123518](https://github.com/user-attachments/assets/cd0ee935-0fdd-4efd-8cd1-9fd13d666f3f)
+
